@@ -1,11 +1,11 @@
 {
   "name": "babel-preset-es2015-ie",
-  "version": "6.6.1",
+  "version": "6.6.2",
   "description": "Babel preset for all es2015 plugins that works with IE>=9.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmcriffey/babel-preset-es2015-ie9.git"
+    "url": "git+https://github.com/jmcriffey/babel-preset-es2015-ie.git"
   },
   "keywords": [
     "babel",
@@ -19,9 +19,9 @@
   "author": "Jeff McRiffey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmcriffey/babel-preset-es2015-ie9/issues"
+    "url": "https://github.com/jmcriffey/babel-preset-es2015-ie/issues"
   },
-  "homepage": "https://github.com/jmcriffey/babel-preset-es2015-ie9#readme",
+  "homepage": "https://github.com/jmcriffey/babel-preset-es2015-ie#readme",
   "dependencies": {
     "babel-plugin-check-es2015-constants": "^6.5.0",
     "babel-plugin-transform-es2015-arrow-functions": "^6.5.0",
