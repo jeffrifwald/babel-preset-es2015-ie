@@ -43,6 +43,7 @@
     "babel-plugin-transform-es2015-template-literals": "^6.6.0",
     "babel-plugin-transform-es2015-typeof-symbol": "^6.6.0",
     "babel-plugin-transform-es2015-unicode-regex": "^6.5.0",
+    "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-plugin-transform-proto-to-assign": "^6.6.0",
     "babel-plugin-transform-regenerator": "^6.6.0"
   }

@@ -7,6 +7,7 @@ module.exports = {
     require('babel-plugin-transform-es2015-block-scoped-functions'),
     [require('babel-plugin-transform-es2015-classes'), {loose: true}],
     require('babel-plugin-transform-es2015-object-super'),
+    require('babel-plugin-transform-object-assign'),
     require('babel-plugin-transform-es2015-shorthand-properties'),
     require('babel-plugin-transform-es2015-duplicate-keys'),
     require('babel-plugin-transform-es2015-computed-properties'),
