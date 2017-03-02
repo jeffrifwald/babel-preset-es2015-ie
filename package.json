@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-ie",
-  "version": "6.6.2",
+  "version": "6.7.0",
   "description": "Babel preset for all es2015 plugins that works with IE>=9.",
   "main": "index.js",
   "repository": {
