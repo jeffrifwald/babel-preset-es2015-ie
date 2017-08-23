@@ -33,3 +33,30 @@ require("babel-core").transform("code", {
   presets: ["es2015-ie"]
 });
 ```
+
+## Options
+
+### `modules`
+
+`"amd" | "umd" | "systemjs" | "commonjs" | false`, defaults to `"commonjs"`.
+
+Enable transformation of ES6 module syntax to another module type.
+
+Setting this to `false` will not transform modules (uses with module bundlers like rollup.js).
+
+## Examples
+
+#### Example config for webpack 2/rollup
+
+**.babelrc**
+
+```json
+{
+  "presets": [
+    ["es2015-ie", {
+      "modules": false
+    }]
+  ]
+}
+```
+
